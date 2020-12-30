@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this , "Sign Up", Toast.LENGTH_SHORT).show();
             }
         });
-
+     //this is demo comment
     }
 }
 
